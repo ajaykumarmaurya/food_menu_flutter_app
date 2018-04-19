@@ -145,7 +145,7 @@ class _MenuPagerState extends State<MenuPager> with TickerProviderStateMixin {
         new PageView.builder(
           itemCount: Menu.menu.length,
           itemBuilder: (BuildContext context, int itemCount){
-            return Container();
+            return new Container();
           },
           controller: _backgroundPageController,
           onPageChanged: (index) {
@@ -175,7 +175,7 @@ class _MenuPagerState extends State<MenuPager> with TickerProviderStateMixin {
             children:_buildPages(),
           ),
         ),
-        Positioned.fill(
+        new Positioned.fill(
           top: 35.0,
           right: 10.0,
           bottom: 100.0,
