@@ -6,21 +6,6 @@
 
 
 
-## Todo
-
-- [x] ~~Make background colors that changes with PageView~~
-- [x] ~~Add custom tab indicators~~
-- [x] ~~Change food prices~~
-- [x] ~~Make cart animation~~
-- [x] ~~Customize card shadow~~
-- [x] ~~apply different text font~~
-- [x] ~~create secondary [screen](https://www.uplabs.com/posts/about-us-ramen-restaurant-app)~~
-- [x] ~~navigate to secondary screen with hero animation~~
-- [x] ~~Make cards slide animation~~
-- [x] ~~Increment & decrement quantities~~
-- [ ] Counter add actual items selected in a list
-- [ ] create application [architecture](https://github.com/brianegan/flutter_architecture_samples)
-
 
 ### Getting Started
 
